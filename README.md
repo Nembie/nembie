@@ -14,7 +14,7 @@ Here's a bit about me:
 
 📷 I'm a passionate amateur photographer, I love capturing special moments through the lens.
 
-#### 📫 Contattami
+#### 📫 Contact me
 
 I'm always open to new connections and collaborations. If you want to discuss projects, technology, music, or anything else, don't hesitate to reach out to me.
 
