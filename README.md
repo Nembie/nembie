@@ -1,12 +1,22 @@
 ## 👋 Hi i'm Luca! - aka [Nembie][githublink]
 
-**I worked as a curious person and in my free time I am a developer (or the other way around? 🤔)**
+**Welcome to my GitHub profile! I'm a curious individual who spends their free time as a developer (or perhaps it's the other way around? 🤔).**
 
-- 🧑‍💻 Working on Laravel and React Native
-- 💸 Understanding more about the world of finance
-- 🌐 Contributing to open source
-- 🎧 Listening new music (lo-fi is great)
-- 🙌🏻 Meeting new interesting people
+Here's a bit about me:
+
+🚀 I'm currently working with Laravel and React Native, honing my skills in web and mobile development. (Python 👀)
+
+💸 I have a keen interest in the world of finance and am always looking to expand my knowledge in this field.
+
+🌐 I'm an active contributor to open source projects, doing my part to give back to the developer community.
+
+🎧 I enjoy exploring new music, with a soft spot for lo-fi beats that set the mood.
+
+📷 I'm a passionate amateur photographer, I love capturing special moments through the lens.
+
+#### 📫 Contattami
+
+I'm always open to new connections and collaborations. If you want to discuss projects, technology, music, or anything else, don't hesitate to reach out to me.
 
 ---------
 
