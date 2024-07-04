@@ -28,6 +28,6 @@ I'm always open to new connections and collaborations. If you want to discuss pr
 
 
 [Twitter]: https://twitter.com/n3mbie
-[Linkedin]: www.linkedin.com/in/luca-pacitto
+[Linkedin]: https://www.linkedin.com/in/luca-pacitto
 [StackOverFlow]: https://stackoverflow.com/users/9935392/luca-p
 [Gmail]: mailto:lucapacitto.dev@gmail.com
